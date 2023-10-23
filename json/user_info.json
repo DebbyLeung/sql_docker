@@ -1,0 +1,16 @@
+{
+    "root":{
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password":"example_root", 
+        "database":"database1"
+    },
+    "user1":{
+        "password":"example", 
+        "host":"127.0.0.0", 
+        "port": 3306,
+        "user": "user1",
+        "database":"database1"
+    }
+}
