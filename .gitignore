@@ -1,6 +1,8 @@
 # Ignore compiled binaries
 *.exe
 *.o
+# python 
+*.py[cod]
 
 # Ignore logs and temporary files
 logs/
